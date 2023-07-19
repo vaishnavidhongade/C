@@ -1,5 +1,6 @@
 #include<stdio.h>
 
 void main (){
-    printf("Hello World")
+    printf("vaishnavi dhongade");
+    getchar();
 }
